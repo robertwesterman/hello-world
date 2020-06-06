@@ -1,2 +1,2 @@
 # hello-world
-My first repository with GitHub
+Loving getting my toes back in the SQL pool.
